@@ -17,6 +17,12 @@
 
  - создать статическую страницу в Object Storage и применить сертификат HTTPS;
  - в качестве результата предоставить скриншот на страницу с сертификатом в заголовке (замочек).
+Создал новый бакет, попробывал на него сделать.
 
 Показывает этот сертификат 
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/cab99849-0a18-4085-ad3e-54f3f6043945" />
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/3c38ff36-5eb6-401c-a67d-4c986b10cb39" />
+
+
+Создал сертфикаты использовал и HTTP и DNS, прошло уже более 2 суток и так валидация не прошла.
+<img width="1879" height="994" alt="image" src="https://github.com/user-attachments/assets/0b89747b-3b93-4cea-a2f7-ede4964cae3c" />
+<img width="1878" height="997" alt="image" src="https://github.com/user-attachments/assets/9f1e3c8b-6525-4b5b-aeef-3d78199f1c2d" />
